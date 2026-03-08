@@ -1,7 +1,7 @@
 # UAT Test Framework for Financial Data Pipelines
 ### Python · Pandas · Pytest · openpyxl
 
-> **UBS Data Services context:** Formal UAT (User Acceptance Testing) framework that gates staging → production promotion for financial data pipelines. Every data release at an asset manager must pass a defined set of acceptance criteria before going live. This framework automates that process.
+>Formal UAT (User Acceptance Testing) framework that gates staging → production promotion for financial data pipelines. Every data release at an asset manager must pass a defined set of acceptance criteria before going live. This framework automates that process.
 
 ---
 
@@ -129,4 +129,3 @@ uat_framework/
 - Pipeline orchestration with configurable scenarios
 
 ---
-*Built as a portfolio project for Data Analyst roles in Asset Management.*
